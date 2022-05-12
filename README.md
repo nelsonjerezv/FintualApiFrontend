@@ -1,5 +1,6 @@
 # FintotualFrontend
 
+This code is a frontend to read fintual api, it works with [FintualApiBackend](https://github.com/nelsonjerezv/FintualApiBackend).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
